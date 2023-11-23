@@ -83,12 +83,15 @@ section {
 
 
 
-a:hover { 
+a:link { 
 text-decoration: none; 
-color: white; 
-
+color: white;
 	}
 
+a:hover { 
+text-decoration: none; 
+color: blue;
+	}
 
 
 /* Style the content */
