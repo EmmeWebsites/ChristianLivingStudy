@@ -84,12 +84,12 @@ section {
 
 
 a { 
-text-decoration: none; 
+text-decoration: underline; 
 color: white;
 	}
 
 a:hover { 
-text-decoration: none; 
+text-decoration: underline; 
 color: blue;
 	}
 
