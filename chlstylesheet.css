@@ -105,9 +105,9 @@ article {
   margin-top:10px;
   margin-right: 20px;
   margin-left: 35px;
-  width: 335px;
-  min-width: 335px;
-  height: 295px;
+  width: 320px;
+  min-width: 320px;
+  height: 305px;
   color: white;
   font-size: 15px;
   border: solid;
@@ -163,4 +163,5 @@ footer {
     flex-direction: column;
   }
 }
+
 
