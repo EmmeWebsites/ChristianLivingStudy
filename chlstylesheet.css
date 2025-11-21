@@ -49,10 +49,10 @@ header {
   
   display: grid;
   grid-template-columns: 90px 90px 90px;
-  gap: 35px;
+  gap: 30px;
   align-items: left;
   padding: 0px;
-  margin: 20px;
+  margin: 15px;
   
 }
 
@@ -163,3 +163,4 @@ footer {
     flex-direction: column;
   }
 }
+
