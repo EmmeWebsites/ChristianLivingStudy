@@ -103,11 +103,11 @@ article {
   padding-top: 5px;
   margin:50px;
   margin-top:10px;
-  margin-right: 20px;
-  margin-left: 35px;
-  width: 320px;
-  min-width: 320px;
-  height: 305px;
+  margin-right: 14px;
+  margin-left: 30px;
+  width: 310px;
+  min-width: 310px;
+  height: 315px;
   color: white;
   font-size: 15px;
   border: solid;
@@ -131,8 +131,8 @@ article {
 	margin-top: -5px;
 	margin-left: 35px;
 	margin-right: 20px;
-	width: 370px;
-	height: 320px;
+	width: 355px;
+	height: 310px;
     border: solid;
 	border-width: 5px;
     border-color: #BFE8FF;
@@ -163,5 +163,6 @@ footer {
     flex-direction: column;
   }
 }
+
 
 
